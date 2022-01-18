@@ -1,6 +1,2 @@
-### 你好！
-我是猫，也是红屏，是小学生，学编程的，做视频的，写病毒、QQ机器人的，玩游戏的，C盘总是没空间的
-，有两个小号的，都是我。<br>
-目前正在学C++（写病毒的），Python（写机器人的）~~还有Scratch~~。<br>
-开学可能不常更新请谅解(<br>
-由于网络问题，我的Github可能不会经常上线，所以请移步我的[Gitee](https://gitee.com/cronik)。
+# Hi!
+Im a developer in china, interested in developing visual effects (malware).
