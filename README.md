@@ -1,1 +1,9 @@
-a ~~*malware*~~ developer ofc
+a ~~*malware*~~ developer lol
+
+Contact me at:
+
+Discord: rsodxd#5047
+
+Email: thesourcecatt@outlook.com
+
+*QQ*: 2952558045
