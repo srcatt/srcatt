@@ -1,5 +1,5 @@
 # Hai am [srcatt](https://github.com/srcatt)
-- Programmer in both low-level and high-level language
+- 💻 Programmer in both low-level and high-level language
 - Interested in developing visual effects(?)
 
 Contact me at:
