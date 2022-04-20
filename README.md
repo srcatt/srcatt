@@ -1,4 +1,4 @@
-# Hai am [srcatt](https://github.com/srcatt)
+# Hi there!
 
 Contact me at:
 > Discord: rsodxd#5047
